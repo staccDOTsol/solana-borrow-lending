@@ -1,6 +1,6 @@
 # Solana Borrow-Lending Platform
 
-This repository contains the implementation of a sophisticated borrow-lending platform built on the Solana blockchain. Developed by Aldrin Labs, this project leverages the power of Solana's high-performance blockchain to create an efficient and scalable lending protocol.
+This repository contains the implementation of a sophisticated borrow-lending platform built on the Solana blockchain. O.g. developed by Aldrin Labs, adopted by staccoverflow, this project leverages the power of Solana's high-performance blockchain to create an efficient and scalable lending protocol.
 
 ## Key Features
 

@@ -140,3 +140,28 @@ This project is like the Swiss Army knife of DeFi on Solana - it's got all the t
    - Liquidations could get more cascading than a waterfall
 
 In conclusion, we're not saying we're the best thing since sliced bread in the Solana DeFi world, but... okay, maybe we are saying that. Just don't tell MarginFi, Dumpy.fun, or Mango. We're like the cool kid at the DeFi party - we've got all the toys, and we're not afraid to use them. Sure, we might trip over our own shoelaces occasionally, but that's just part of our charm. Buckle up, buttercup - it's going to be a wild ride!
+
+## The "It Wasn't Me" Clause (Futarchic Absolution)
+
+Ladies, gentlemen, and all decentralized beings in between, gather 'round for the pièce de résistance of our humble abode - the Futarchic Absolution Mechanism™ (FAM for short, because we're all about that FAM-ily).
+
+Here's the deal:
+1. We make decisions based on prediction markets.
+2. Things either go great or... not so great.
+3. If great, we're geniuses! If not... well, that's where the magic happens.
+
+Behold, the power of FAM:
+- Did we make a boo-boo? Blame the markets!
+- Liquidity dried up faster than a puddle in the Sahara? The prediction markets didn't see it coming!
+- Accidentally set all interest rates to 1000%? Clearly, that's what the futarchy wanted!
+
+With our patented Futarchic Absolution Mechanism™, failure is not just an option - it's a feature! We're not just passing the buck; we're revolutionizing buck-passing. It's like having a "Get Out of Jail Free" card, but for every decision ever.
+
+Remember folks, in the world of FAM:
+- We're always right, even when we're wrong.
+- Accountability is so last season.
+- "I told you so" has been replaced with "The markets have spoken."
+
+So come on down to the Solana Borrow-Lending Platform, where the loans are leveraged, the yields are farmed, and the blame is always somebody else's! After all, in futarchy we trust - because trusting ourselves is overrated.
+
+Disclaimer: Futarchic Absolution Mechanism™ may not actually absolve you of anything in the real world. Terms and conditions apply. Side effects may include smugness, an inflated sense of infallibility, and the irresistible urge to start every sentence with "Well, actually..."

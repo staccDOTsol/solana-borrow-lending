@@ -24,7 +24,7 @@ This repository contains the implementation of a sophisticated borrow-lending pl
 
 - Originally built with Solana v1.7.17 and Anchor v0.24.2
 - **Updated to Anchor v0.30.1** (Note: The older version was audited by the Aldrin Labs team)
-- Utilizes Pyth Network for decentralized price oracles
+- Utilizes Pyth Network for decentralized price oracles, but read the code for some easter eggs
 - Implements advanced mathematical models for interest rates and exchange ratios
 
 ## Repository Structure
